@@ -20,23 +20,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [html]()
-- [css]()
-- [js]()
-
-## 🚀 Instalação
-
-```bash
-  # Clone o repositório e entre na pasta do projeto
-  $ git clone https://github.com/RayanneRamos/site-guardioes-da-galaxia.git
-  $ cd site-guardioes-da-galaxia
-  # Execute a aplicação
-  $ abra o arquivo html no navegador
-  # ou
-  $ utilizando a extensão live-server
-```
-
-Para ver a aplicação rodando abra no seu navegador!
+- HTML
+- CSS
+- JavaScript
 
 ## 📝 License
 
@@ -44,4 +30,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-<p align='center'>Criado by Rayanne Ramos</p>
+<p align='center'>Criado por Luccas Alberto</p>
