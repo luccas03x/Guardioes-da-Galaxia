@@ -10,13 +10,13 @@
   <img src='https://img.shields.io/badge/stars-MIT-%23835afd' alt='Stars' />
 </p>
 
-<br>
+
 
 ## 💻 Projeto
 
-[Site dos Guardiões da Galáxia](https://site-guardioes-da-galaxia-enrr8kr94-rayanneramos.vercel.app/) é um projeto desenvolvido que consiste em criar um site dos Guardiões da Galáxia que nele você pode selecionar os personagens e ver algumas animações no site.
+O site "Guardiões da Galáxia" é um projeto desenvolvido que consiste em criar um site dos Guardiões da Galáxia que nele você pode selecionar os personagens e ver algumas animações no site.
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
